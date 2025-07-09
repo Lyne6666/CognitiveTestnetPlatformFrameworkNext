@@ -1,0 +1,2 @@
+# CognitiveTestnetPlatformFrameworkNext
+Advanced CognitiveTestnetPlatformFrameworkNext project
